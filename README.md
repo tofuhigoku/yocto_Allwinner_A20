@@ -1,0 +1,2 @@
+# yocto_Allwinner_A20
+yocto_Allwinner_A20
